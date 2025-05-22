@@ -23,6 +23,7 @@ Boords simplifies storyboard creation with intuitive features designed for teams
 - **Cloud Storage:** Access projects securely from any device.  
 
 Whether you’re pitching a client or directing a film, Boords turns complex ideas into visual stories that resonate.  
+![Screenshot_32](https://github.com/user-attachments/assets/00d3751b-2a74-4d4f-8271-b2425f9b22d2)
 
 ---
 
@@ -32,8 +33,8 @@ Whether you’re pitching a client or directing a film, Boords turns complex ide
 3. **Checkout Securely:** The 70% discount will apply at payment—no code needed!  
 
 **Pro Tip:** Opt for the annual plan to lock in maximum savings + additional features like unlimited projects and advanced exports.  
+![Screenshot_33](https://github.com/user-attachments/assets/6ca40a44-1051-4f8e-ae7b-e9703cea13af)
 
----
 
 **Maximize Your Savings**  
 - **Team Plans:** Upgrade to a team subscription and share the discount with collaborators.  
